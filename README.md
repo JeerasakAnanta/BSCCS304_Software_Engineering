@@ -18,7 +18,7 @@
 1. Clone โปรเจกต์จาก GitHub
     
 ```bash
-git clone <URL ของโปรเจกต์>
+git clone https://github.com/JeerasakAnanta/BSCCS304_Software_Engineering
 ```
 
 2. เข้าไปยังโฟลเดอร์โปรเจกต์
